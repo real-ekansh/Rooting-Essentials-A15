@@ -9,7 +9,7 @@ A Repo, with all important Root Modules for Andriod 15
 > I don't own any stuff / modules shown here, All credits goes to their respective owners. This Repository is made for ease of access of you have any doubts kindly contact there owners.
 
 
-#### 1. KernalSU Next
+#### 1. KernelSU Next
 ##### 🚀 Features
 Kernel-based su and root access management.
 Module system based on Magic Mount and OverlayFS.
