@@ -15,3 +15,11 @@ Kernel-based su and root access management.
 Module system based on Magic Mount and OverlayFS.
 App Profile: Limit root privileges per app.
 Release Link: https://github.com/real-ekansh/Rooting-Essentials-A15/releases/tag/v1.0.9
+
+#### 2. Magisk
+#####🚀 Features
+**MagiskSU:** Provide root access for applications
+**Magisk Modules:** Modify read-only partitions by installing modules
+**MagiskBoot:** The most complete tool for unpacking and repacking Android boot images
+**Zygisk:** Run code in every Android applications' processes
+Release Link: https://github.com/real-ekansh/Rooting-Essentials-A15/releases/tag/v29
