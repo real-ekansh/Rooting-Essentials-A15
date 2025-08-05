@@ -17,7 +17,7 @@ App Profile: Limit root privileges per app.
 Release Link: https://github.com/real-ekansh/Rooting-Essentials-A15/releases/tag/v1.0.9
 
 #### 2. Magisk
-#####🚀 Features
+##### 🚀 Features
 **MagiskSU:** Provide root access for applications
 **Magisk Modules:** Modify read-only partitions by installing modules
 **MagiskBoot:** The most complete tool for unpacking and repacking Android boot images
