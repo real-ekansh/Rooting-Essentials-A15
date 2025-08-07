@@ -11,33 +11,37 @@ A Repo, with all important Root Modules for Andriod 15
 
 ### 1. KernelSU Next
 ##### 🚀 Features
-**Kernel**-**based** su and **root** access **management**.
+- **Kernel**-**based** su and **root** access **management**.
 
-**Module** system based on **Magic** **Mount** and **OverlayFS**.
+- **Module** system based on **Magic** **Mount** and **OverlayFS**.
 
-**App Profile:** Limit root privileges per app.
+- **App Profile:** Limit root privileges per app.
 
-**Release Link**: [Here](https://github.com/real-ekansh/Rooting-Essentials-A15/releases/tag/v1.0.9)
+- **Release Link**: [Here](https://github.com/real-ekansh/Rooting-Essentials-A15/releases/tag/v1.0.9)
 
 ### 2. Magisk
 ##### 🚀 Features
-**MagiskSU:** Provide root access for applications
+- **MagiskSU:** Provide root access for applications
 
-**Magisk Modules:** Modify read-only partitions by installing modules
+- **Magisk Modules:** Modify read-only partitions by installing modules
 
-**MagiskBoot:** The most complete tool for unpacking and repacking Android boot images
+- **MagiskBoot:** The most complete tool for unpacking and repacking Android boot images
 
-**Zygisk:** Run code in every Android applications' processes
+- **Zygisk:** Run code in every Android applications' processes
 
-**Release Link**: [Here](https://github.com/real-ekansh/Rooting-Essentials-A15/releases/tag/v29)
+- **Release Link**: [Here](https://github.com/real-ekansh/Rooting-Essentials-A15/releases/tag/v29)
 
 
 ### 3. KernelSU
 ##### 🚀 Features
-**Kernel-based su** and **root** access management.
+- **Kernel-based su** and **root** access management.
 
-**Module** **system** based on **OverlayFS**.
+- **Module** **system** based on **OverlayFS**.
 
-**App** **Profile**: Lock up the root power in a cage.
+- **App** **Profile**: Lock up the root power in a cage.
 
-**Release Link**: [Here](https://github.com/tiann/KernelSU/releases/tag/v1.0.5)
+- **Release Link**: [Here](https://github.com/tiann/KernelSU/releases/tag/v1.0.5)
+
+
+### 4. ReZygisk
+- **Rekease Link**: [Here](https://github.com/real-ekansh/Rooting-Essentials-A15/releases/tag/v1.0.0-rc.3)
