@@ -45,3 +45,9 @@ A Repo, with all important Root Modules for Andriod 15
 
 ### 4. ReZygisk
 - **Rekease Link**: [Here](https://github.com/real-ekansh/Rooting-Essentials-A15/releases/tag/v1.0.0-rc.3)
+
+### 5. BootLoop-Protection
+##### 🚀 Requirements
+- **Magisk** **20.****4**+ is **installed**
+
+- **Release Link**: [Here](https://github.com/real-ekansh/Rooting-Essentials-A15/releases/tag/v1.8)
